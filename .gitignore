@@ -1,0 +1,10 @@
+# Local package's build etc
+**/__pycache__
+.pytest_cache
+*.egg-info
+**/build
+.venv*/
+.env
+
+# Vscode
+.vscode
