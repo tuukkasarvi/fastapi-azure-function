@@ -1,0 +1,1 @@
+Minimal example of FastAPI deployed as Azure function.
