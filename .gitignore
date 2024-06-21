@@ -8,3 +8,8 @@
 
 # Vscode
 .vscode
+
+# Terraform-related
+*.zip
+*.tfstate*
+.terraform*
