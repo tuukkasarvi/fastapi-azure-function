@@ -7,6 +7,7 @@ Minimal example of FastAPI deployed as Azure function.
 fastapi-azure-function
 ├── function/                                       Azure function and FastAPI code
 ├── infra/                                          Terraform code
+├── .gitignore
 └── README.md
 ```
 
@@ -16,7 +17,7 @@ fastapi-azure-function
 - Azure CLI: Install Azure CLI.
 - Terraform: Install Terraform.
 
-## Usage
+## Deploy to Azure
 
 Login to Azure and change to infra-directory.
 ```sh
