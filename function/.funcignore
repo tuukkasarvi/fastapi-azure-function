@@ -1,5 +1,3 @@
-.pytest*
 .venv*
 __pycache__
 local.settings.json
-tests
